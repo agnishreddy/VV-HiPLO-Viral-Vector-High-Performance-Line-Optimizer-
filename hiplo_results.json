@@ -1,0 +1,1453 @@
+{
+  "promoter_results": [
+    {
+      "name": "CMV_immediate_early",
+      "score": {
+        "composite_score": 73.25,
+        "gc_content": 46.15,
+        "gc_score": 72.31,
+        "tf_sites": [
+          {
+            "tf": "NFkB",
+            "position": 178,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "NFkB",
+            "position": 329,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 137,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 190,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 273,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "NFY",
+            "position": 172,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          }
+        ],
+        "tf_density": 14.42,
+        "tf_strength_score": 81.33,
+        "cpg_ratio": 0.9496,
+        "cpg_score": 47.48,
+        "has_tata": false,
+        "sequence_length": 416
+      },
+      "strategy": "Existing Human Cytomegalovirus",
+      "architecture": "CMV_immediate_early",
+      "sequence": "TTGACATTGATTATTGACTAGTTATTAATAGTAATCAATTACGGGGTCATTAGTTCATAGCCCATATATGGAGTTCCGCGTTACATAACTTACGGTAAATGGCCCGCCTGGCTGACCGCCCAACGACCCCCGCCCATTGACGTCAATAATGACGTATGTTCCCATAGTAACGCCAATAGGGACTTTCCATTGACGTCAATGGGTGGAGTATTTACGGTAAACTGCCCACTTGGCAGTACATCAAGTGTATCATATGCCAAGTACGCCCCCTATTGACGTCAATGACGGTAAATGGCCCGCCTGGCATTATGCCCAGTACATGACCTTATGGGACTTTCCTACTTGGCAGTACATCTACGTATTAGTCATCGCTATTACCATGGTGATGCGGTTTTGGCAGTACATCAATGGGCGTG",
+      "predicted_strength": 0.95
+    },
+    {
+      "name": "CAG_promoter",
+      "score": {
+        "composite_score": 96.26,
+        "gc_content": 84.0,
+        "gc_score": 52.0,
+        "tf_sites": [
+          {
+            "tf": "Sp1",
+            "position": 124,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 130,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 135,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 141,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 146,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 158,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 201,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 206,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 218,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 230,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 235,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 246,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          }
+        ],
+        "tf_density": 43.64,
+        "tf_strength_score": 80.0,
+        "cpg_ratio": 0.9428,
+        "cpg_score": 47.14,
+        "has_tata": false,
+        "sequence_length": 275
+      },
+      "strategy": "Existing CMV enhancer + chicken beta-actin promoter",
+      "architecture": "CAG_promoter",
+      "sequence": "CCTGCAGGAATTCGCGGCCGCTCTAGACTCTAGCTATCCACCCAAGTCCTTAGGCCTCCCCCCCGCGCGCGCGCCGCGCCGCGCCGCGCCGCGCCGCAGGCCTCGGCCGCGCGCGGCCTCGGCGGGGCGGGGGCGGGGCGGGGGCGGGGCGGGGGGCTGGGCGGGGCTGGGGCGAGGCTCGGCTGTCCCGAGCCGGGAGCGGGGCGGGGCGGGGGCTGGGGCGGAGGCTCGGGCGGGGCGGGGCTGGGGCGGGGCTGGGGCGAGGCTCGGCTGTC",
+      "predicted_strength": 0.97
+    },
+    {
+      "name": "EF1alpha",
+      "score": {
+        "composite_score": 14.27,
+        "gc_content": 94.42,
+        "gc_score": 31.16,
+        "tf_sites": [],
+        "tf_density": 0.0,
+        "tf_strength_score": 0.0,
+        "cpg_ratio": 1.2951,
+        "cpg_score": 64.75,
+        "has_tata": false,
+        "sequence_length": 233
+      },
+      "strategy": "Existing Human Elongation Factor 1-alpha",
+      "architecture": "EF1alpha",
+      "sequence": "GTCGACGGCGGCGGCAGCCAGCTGCGGCCGCGCACCGGCACCGCGCCCGCCGCCTCCGCCGCCCGCCGCCCGCCCGCCCGCCCGCCGCCCGCCCGCCGCCTCCGCCGCCCGCCGCCGCCCGACCCCGCCCCGCCCGCCCGCCGCCTCGCCCGCCCCGCCCGCCCGCCGCCCGCCCGCCCGCCCGACCCCGCCCCGCCCGCCCGCCGCCTCGCCCGCCCCGCCCGCCCGCCGCC",
+      "predicted_strength": 0.88
+    },
+    {
+      "name": "SFFV",
+      "score": {
+        "composite_score": 100,
+        "gc_content": 89.08,
+        "gc_score": 41.84,
+        "tf_sites": [
+          {
+            "tf": "Sp1",
+            "position": 17,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 32,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 39,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 46,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 53,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 60,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 71,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 76,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 81,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 91,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 101,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 111,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 121,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 131,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 141,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 152,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 162,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          }
+        ],
+        "tf_density": 97.7,
+        "tf_strength_score": 80.0,
+        "cpg_ratio": 0.8212,
+        "cpg_score": 41.06,
+        "has_tata": false,
+        "sequence_length": 174
+      },
+      "strategy": "Existing Spleen Focus-Forming Virus LTR",
+      "architecture": "SFFV",
+      "sequence": "GATCGCCCTGCACTTGTGGGCGGGGAGGGGGTGGGCGGGGGGCGGGGGGCGGGGGGCGGGGGGCGGGGGGAGGGCGGGGCGGGGCGGGGCTGGGCGGGGCTGGGCGGGGCTGGGCGGGGCTGGGCGGGGCTGGGCGGGGCTGGGCGGGGCTCGGGCGGGGCTGGGCGGGGCTGG",
+      "predicted_strength": 0.82
+    },
+    {
+      "name": "UBC",
+      "score": {
+        "composite_score": 13.29,
+        "gc_content": 100.0,
+        "gc_score": 20.0,
+        "tf_sites": [],
+        "tf_density": 0.0,
+        "tf_strength_score": 0.0,
+        "cpg_ratio": 1.6571,
+        "cpg_score": 82.86,
+        "has_tata": false,
+        "sequence_length": 116
+      },
+      "strategy": "Existing Human Ubiquitin C",
+      "architecture": "UBC",
+      "sequence": "CGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCC",
+      "predicted_strength": 0.75
+    },
+    {
+      "name": "PGK",
+      "score": {
+        "composite_score": 100,
+        "gc_content": 88.79,
+        "gc_score": 42.41,
+        "tf_sites": [
+          {
+            "tf": "Sp1",
+            "position": 17,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 32,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 39,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 46,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 53,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 60,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 71,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 76,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 81,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 91,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 101,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          }
+        ],
+        "tf_density": 94.83,
+        "tf_strength_score": 80.0,
+        "cpg_ratio": 0.8757,
+        "cpg_score": 43.79,
+        "has_tata": false,
+        "sequence_length": 116
+      },
+      "strategy": "Existing Phosphoglycerate Kinase 1",
+      "architecture": "PGK",
+      "sequence": "GATCGCCCTGCACTTGTGGGCGGGGAGGGGGTGGGCGGGGGGCGGGGGGCGGGGGGCGGGGGGCGGGGGGAGGGCGGGGCGGGGCGGGGCTGGGCGGGGCTGGGCGGGGCTGGGCG",
+      "predicted_strength": 0.68
+    },
+    {
+      "name": "Tet-On_3G",
+      "score": {
+        "composite_score": 17.88,
+        "gc_content": 45.76,
+        "gc_score": 71.53,
+        "tf_sites": [],
+        "tf_density": 0.0,
+        "tf_strength_score": 0.0,
+        "cpg_ratio": 0.0,
+        "cpg_score": 0.0,
+        "has_tata": false,
+        "sequence_length": 118
+      },
+      "strategy": "Existing Tetracycline-Inducible (3rd Gen)",
+      "architecture": "Tet-On_3G",
+      "sequence": "TCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGC",
+      "predicted_strength": 0.9
+    },
+    {
+      "name": "HiPLO_CCE",
+      "description": "CMV-enhancer + CAG-intron + EF1\u03b1-core hybrid",
+      "architecture": "CMV(enh)\u2192CAG(intron)\u2192EF1\u03b1(core)",
+      "sequence": "TTGACATTGATTATTGACTAGTTATTAATAGTAATCAATTACGGGGTCATTAGTTCATAGCCCATATATGGAGTTCCGCGTTACATAACTTACGGTAAATGGCCCGCCTGGCTGACCGCCCAACGACCCCCGCCCATTGACGTCAATAATGACGTATGTTCCCATAGTAACGCCAATAGGGACTTTCCATTGACGTCAATCCTCGGCCGCGCGCGGCCTCGGCGGGGCGGGGGCGGGGCGGGGGCGGGGCGGGGGGCTGGGCGGGGCTGGGGCGAGGCTCGGCTGTCCCGAGCCGGGAGCGGGGCGGGGCGGGGGCTGGGGCGGAGGCTCGGGCGGGGCGGGGCTGGGGCGGGGCTGGGGCGAGGCTCGGCTGTCGTCGACGGCGGCGGCAGCCAGCTGCGGCCGCGCACCGGCACCGCGCCCGCCGCCTCCGCCGCCCGCCGCCCGCCCGCCCGCCCGCCGCCCGCCCGCCGCCTCCGCCGCCCGCCGCCGCCCGACCCCGCCCCGCCCGCCCGCCGCCTCGCCCGCCCCGCCCGCCCGCCGCCCGCCCGCCCGCCCGACCCCGCCCCGCCCGC",
+      "strategy": "Enhancer stacking from 3 strongest promoters",
+      "predicted_strength": 0.897,
+      "score": {
+        "composite_score": 89.67,
+        "gc_content": 75.13,
+        "gc_score": 69.74,
+        "tf_sites": [
+          {
+            "tf": "NFkB",
+            "position": 178,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "Sp1",
+            "position": 224,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 230,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 235,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 241,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 246,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 258,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 301,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 306,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 318,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 330,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 335,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 346,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "CREB",
+            "position": 137,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 190,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "NFY",
+            "position": 172,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          }
+        ],
+        "tf_density": 27.83,
+        "tf_strength_score": 80.06,
+        "cpg_ratio": 1.0869,
+        "cpg_score": 54.34,
+        "has_tata": false,
+        "sequence_length": 575
+      }
+    },
+    {
+      "name": "HiPLO_CMV_TF7",
+      "description": "CMV promoter with 7 tandem TF binding site insertions",
+      "architecture": "CMV\u2192[NFkB-CREB-Sp1]\u00d72+AP1",
+      "sequence": "TTGACATTGATTATTGACTAGTTATTAATAGTAATCAATTACGGGGTCATTAGTTCATAGCCCATATATGGAGTTCCGCGTTACATAACTTACGGTAAATGGCCCGCCTGGCTGACCGCCCAACGACCCCCGCCCATTGACGTCAATAATGACGTATGTTCCCATAGTAACGCCAATAGGGACTTTCCATTGACGTCAATGGGTGGAGTATTTACGGTAAACTGCCCACTTGGCAGTACATCAAGTGTATCATATGCCAAGTACGCCCCCTATTGACGTCAATGACGGTAAATGGCCCGCGGGACTTTCCGCGCTGACGTCAGCGCGGGCGGGCGCTGACTCAGCGCGGGACTTTCCGCGCTGACGTCAGCGCGGGCGGGCGCCTGGCATTATGCCCAGTACATGACCTTATGGGACTTTCCTACTTGGCAGTACATCTACGTATTAGTCATCGCTATTACCATGGTGATGCGGTTTTGGCAGTACATCAATGGGCGTG",
+      "strategy": "Synthetic TF binding site array insertion into CMV backbone",
+      "predicted_strength": 0.913,
+      "score": {
+        "composite_score": 91.34,
+        "gc_content": 51.1,
+        "gc_score": 82.2,
+        "tf_sites": [
+          {
+            "tf": "NFkB",
+            "position": 178,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "NFkB",
+            "position": 300,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "NFkB",
+            "position": 347,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "NFkB",
+            "position": 412,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "Sp1",
+            "position": 326,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 373,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "AP1",
+            "position": 336,
+            "sequence": "TGACTCA",
+            "strength": 0.75,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 137,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 190,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 273,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 314,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 361,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "NFY",
+            "position": 172,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          }
+        ],
+        "tf_density": 26.05,
+        "tf_strength_score": 81.31,
+        "cpg_ratio": 1.1665,
+        "cpg_score": 58.32,
+        "has_tata": false,
+        "sequence_length": 499
+      }
+    },
+    {
+      "name": "HiPLO_iTOP",
+      "description": "Inducible Tet-On promoter with 7x TRE for controlled high-yield",
+      "architecture": "7\u00d7TRE\u2192miniCMV\u2192Tet3G-responsive",
+      "sequence": "TCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTCCCTATCAGTGATAGAGATGCTGTTGACATTGATTATTGACTAGTTATTAATAGTAATCAATTACGGGGTCATTAGTTCATAGCCCATATATGGAGTTCCGCG",
+      "strategy": "Doxycycline-inducible with amplified TRE response elements",
+      "predicted_strength": 0.247,
+      "inducible": true,
+      "inducer": "Doxycycline (1 \u00b5g/mL)",
+      "score": {
+        "composite_score": 24.72,
+        "gc_content": 42.34,
+        "gc_score": 64.68,
+        "tf_sites": [],
+        "tf_density": 0.0,
+        "tf_strength_score": 0.0,
+        "cpg_ratio": 0.2729,
+        "cpg_score": 5.46,
+        "has_tata": false,
+        "sequence_length": 248
+      }
+    },
+    {
+      "name": "HiPLO_SYNTH_MIN",
+      "description": "De novo synthetic minimal promoter with optimized TF site spacing",
+      "architecture": "[Sp1\u00d73-NFY\u00d72-Sp1\u00d72]-spacer-TATA-Inr",
+      "sequence": "GGGCGGGGGCGGGGGCGGCCAATCCAATGGGCGGGGGCGGGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCTATAAAGCGCGCGCGCGCGCGCGCGCTCGCCAGCCATGC",
+      "strategy": "Rational design with optimal TF binding site spacing (10bp helical repeat)",
+      "predicted_strength": 1.0,
+      "score": {
+        "composite_score": 100,
+        "gc_content": 86.55,
+        "gc_score": 46.89,
+        "tf_sites": [
+          {
+            "tf": "Sp1",
+            "position": 0,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 6,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 12,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 28,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 34,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "NFY",
+            "position": 18,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          },
+          {
+            "tf": "NFY",
+            "position": 23,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          },
+          {
+            "tf": "TATA",
+            "position": 80,
+            "sequence": "TATAAA",
+            "strength": 0.9,
+            "inducible": false
+          }
+        ],
+        "tf_density": 67.23,
+        "tf_strength_score": 79.25,
+        "cpg_ratio": 1.5502,
+        "cpg_score": 77.51,
+        "has_tata": true,
+        "sequence_length": 119
+      }
+    },
+    {
+      "name": "HiPLO_SE_CHIM",
+      "description": "Super-enhancer chimera combining 3 promoter enhancer regions",
+      "architecture": "[CMV-enh]\u00d72-[CAG-enh]-[EF1\u03b1-enh]-miniCMV-core",
+      "sequence": "TTGACATTGATTATTGACTAGTTATTAATAGTAATCAATTACGGGGTCATTAGTTCATAGCCCATATATGGAGTTCCGCGTTACATAACTTACGGTAAATGGCCCGCCTGGCTGACCGCCCAACGACCCCCGCCCATTGACGTCAATAATGACGTATGTTCCCATAGTAACGCCAATAGGGACTTTCCATTGACGTCAATTTGACATTGATTATTGACTAGTTATTAATAGTAATCAATTACGGGGTCATTAGTTCATAGCCCATATATGGAGTTCCGCGTTACATAACTTACGGTAAATGGCCCGCCTGGCTGACCGCCCAACGACCCCCGCCCATTGACGTCAATAATGACGTATGTTCCCATAGTAACGCCAATAGGGACTTTCCATTGACGTCAATCCTGCAGGAATTCGCGGCCGCTCTAGACTCTAGCTATCCACCCAAGTCCTTAGGCCTCCCCCCCGCGCGCGCGCCGCGCCGCGCCGCGCCGCGCCGCAGGCCTCGGCCGCGCGCGGCCTCGGCGGGGCGGGGGCGGGGCGGGGGCGGGGCGGGGGGCTGGGCGGGGCTGGGGCGAGGCTCGGCTGTCCCGAGCCGGGAGCGTCGACGGCGGCGGCAGCCAGCTGCGGCCGCGCACCGGCACCGCGCCCGCCGCCTCCGCCGCCCGCCGCCCGCCCGCCCGCCCGCCGCCCGCCCGCCGCCTCCGCCGCCCGCCGCCGCCCGACCCCGCCCCGCCCGCCCGCCGCCTCGCCTACATGACCTTATGGGACTTTCCTACTTGGCAGTACATCTACGTATTAGTCATCGCTATTACCATGGTGATGCGGTTTTGGCAGTACATCAATGGGCGTG",
+      "strategy": "Multi-enhancer stacking with minimal core promoter",
+      "predicted_strength": 0.845,
+      "score": {
+        "composite_score": 84.49,
+        "gc_content": 61.76,
+        "gc_score": 96.47,
+        "tf_sites": [
+          {
+            "tf": "NFkB",
+            "position": 178,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "NFkB",
+            "position": 378,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "NFkB",
+            "position": 763,
+            "sequence": "GGGACTTTCC",
+            "strength": 0.85,
+            "inducible": true
+          },
+          {
+            "tf": "Sp1",
+            "position": 524,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 530,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 535,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 541,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 546,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "Sp1",
+            "position": 558,
+            "sequence": "GGGCGG",
+            "strength": 0.8,
+            "inducible": false
+          },
+          {
+            "tf": "CREB",
+            "position": 137,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 190,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 337,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "CREB",
+            "position": 390,
+            "sequence": "TGACGTCA",
+            "strength": 0.82,
+            "inducible": true
+          },
+          {
+            "tf": "NFY",
+            "position": 172,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          },
+          {
+            "tf": "NFY",
+            "position": 372,
+            "sequence": "CCAAT",
+            "strength": 0.72,
+            "inducible": false
+          }
+        ],
+        "tf_density": 17.65,
+        "tf_strength_score": 80.47,
+        "cpg_ratio": 1.2348,
+        "cpg_score": 61.74,
+        "has_tata": false,
+        "sequence_length": 850
+      }
+    }
+  ],
+  "helper_plasmid_designs": [
+    {
+      "name": "HiPLO-Dual-Express",
+      "description": "Separate Rep and Cap cassettes with matched strong promoters",
+      "layout": "[Promoter_A]\u2192Rep78\u2192[polyA] || [Promoter_B]\u2192VP1\u2192[WPRE]\u2192[polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "bGH_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "1:1 Rep:Cap",
+      "total_plasmid_size_bp": 7749,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 11.664,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Stoich-Balanced",
+      "description": "P2A-linked Rep-Cap bicistronic for 1:1 stoichiometric expression",
+      "layout": "[CAG]\u2192Rep78-P2A-VP1\u2192[WPRE]\u2192[bGH_polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": null,
+      "rep_elements": [],
+      "cap_elements": [
+        "2A_P2A",
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "1:1 Rep:Cap (P2A forced)",
+      "total_plasmid_size_bp": 6476,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 8.512,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Cap-Boost",
+      "description": "Strong Cap promoter + weaker Rep for natural 1:5 Rep:Cap ratio",
+      "layout": "[PGK]\u2192Rep78\u2192[polyA] || [CAG]\u2192VP1\u2192[WPRE]\u2192[polyA]",
+      "rep_promoter": "PGK",
+      "cap_promoter": "CAG_promoter",
+      "rep_elements": [
+        "SV40_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "1:5 Rep:Cap (promoter-tuned)",
+      "total_plasmid_size_bp": 7689,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 15.592,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Inducible-Control",
+      "description": "Tet-On controlled Rep for temporally regulated production",
+      "layout": "[Tet-On]\u2192Rep78\u2192[polyA] || [CMV]\u2192VP1\u2192[WPRE]\u2192[polyA]",
+      "rep_promoter": "Tet-On_3G",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "SV40_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "Inducible (1:3 Rep:Cap at Dox induction)",
+      "total_plasmid_size_bp": 6509,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 14.86,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-TriCassette",
+      "description": "Three independent cassettes: Rep78, VP1, VP3 with individual optimization",
+      "layout": "[CAG]\u2192Rep78\u2192[polyA] || [CMV]\u2192VP1\u2192[WPRE]\u2192[polyA] || [SFFV]\u2192VP3\u2192[polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "bGH_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "extra_cassette": {
+        "promoter": "SFFV",
+        "gene": "VP3",
+        "elements": [
+          "SV40_polyA"
+        ]
+      },
+      "stoichiometry": "1:3:10 Rep:VP1:VP3",
+      "total_plasmid_size_bp": 8828.6,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 19.829,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Insulated-Premium",
+      "description": "Full insulation with HS4 + WPRE + optimized promoters",
+      "layout": "[HS4]\u2192[CAG]\u2192Rep78\u2192[HS4]\u2192[CMV]\u2192VP1\u2192[WPRE]\u2192[HS4]\u2192[bGH_polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "HS4_insulator",
+        "bGH_polyA",
+        "HS4_insulator"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA",
+        "HS4_insulator"
+      ],
+      "stoichiometry": "1:2 Rep:Cap (insulated)",
+      "total_plasmid_size_bp": 8499,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 76.764,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    }
+  ],
+  "yield_predictions": [
+    {
+      "design_name": "HiPLO-Insulated-Premium",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 779054.4,
+      "predicted_yield_ci_lower": 390452.1,
+      "predicted_yield_ci_upper": 1554417.9,
+      "fold_improvement_vs_baseline": 10.4,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.75,
+        "insulation_score": 1.45,
+        "size_penalty": 0.975,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-TriCassette",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 438083.8,
+      "predicted_yield_ci_lower": 219562.0,
+      "predicted_yield_ci_upper": 874092.1,
+      "fold_improvement_vs_baseline": 5.8,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.95,
+        "insulation_score": 1.0,
+        "size_penalty": 0.959,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Cap-Boost",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 416208.7,
+      "predicted_yield_ci_lower": 208598.5,
+      "predicted_yield_ci_upper": 830445.5,
+      "fold_improvement_vs_baseline": 5.5,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 1.0,
+        "insulation_score": 1.0,
+        "size_penalty": 1.0,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Inducible-Control",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 400589.9,
+      "predicted_yield_ci_lower": 200770.5,
+      "predicted_yield_ci_upper": 799281.9,
+      "fold_improvement_vs_baseline": 5.3,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.85,
+        "insulation_score": 1.0,
+        "size_penalty": 1.0,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Dual-Express",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 358573.6,
+      "predicted_yield_ci_lower": 179712.5,
+      "predicted_yield_ci_upper": 715448.5,
+      "fold_improvement_vs_baseline": 4.8,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.6,
+        "insulation_score": 1.0,
+        "size_penalty": 1.0,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Stoich-Balanced",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 318380.1,
+      "predicted_yield_ci_lower": 159568.0,
+      "predicted_yield_ci_upper": 635251.8,
+      "fold_improvement_vs_baseline": 4.2,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 0.851,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.6,
+        "insulation_score": 1.0,
+        "size_penalty": 1.0,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    }
+  ],
+  "serotype_predictions": [
+    {
+      "design_name": "HiPLO-Insulated-Premium",
+      "serotype": "AAV2",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 779054.4,
+      "predicted_yield_ci_lower": 390452.1,
+      "predicted_yield_ci_upper": 1554417.9,
+      "fold_improvement_vs_baseline": 10.4,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.75,
+        "insulation_score": 1.45,
+        "size_penalty": 0.975,
+        "serotype_factor": 1.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Insulated-Premium",
+      "serotype": "AAV5",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 465441.2,
+      "predicted_yield_ci_lower": 233273.2,
+      "predicted_yield_ci_upper": 928677.4,
+      "fold_improvement_vs_baseline": 6.2,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.75,
+        "insulation_score": 1.45,
+        "size_penalty": 0.975,
+        "serotype_factor": 0.6,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Insulated-Premium",
+      "serotype": "AAV8",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 1978752.0,
+      "predicted_yield_ci_lower": 991725.3,
+      "predicted_yield_ci_upper": 3948129.3,
+      "fold_improvement_vs_baseline": 26.4,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.75,
+        "insulation_score": 1.45,
+        "size_penalty": 0.975,
+        "serotype_factor": 2.5,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Insulated-Premium",
+      "serotype": "AAV9",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 1574704.0,
+      "predicted_yield_ci_lower": 789221.6,
+      "predicted_yield_ci_upper": 3141947.6,
+      "fold_improvement_vs_baseline": 21.0,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.75,
+        "insulation_score": 1.45,
+        "size_penalty": 0.975,
+        "serotype_factor": 2.0,
+        "transfection_efficiency_factor": 0.922
+      }
+    },
+    {
+      "design_name": "HiPLO-Insulated-Premium",
+      "serotype": "AAV-DJ",
+      "cell_type": "HEK293",
+      "culture_mode": "suspension",
+      "transfection_efficiency": 0.85,
+      "predicted_yield_vg_per_cell": 2799294.4,
+      "predicted_yield_ci_lower": 1402970.6,
+      "predicted_yield_ci_upper": 5585326.6,
+      "fold_improvement_vs_baseline": 37.3,
+      "baseline_yield_vg_per_cell": 75000.0,
+      "features": {
+        "promoter_strength": 1.0,
+        "cai_average": 0.999,
+        "gc_content_optimality": 0.943,
+        "stoichiometry_score": 0.75,
+        "insulation_score": 1.45,
+        "size_penalty": 0.975,
+        "serotype_factor": 3.5,
+        "transfection_efficiency_factor": 0.922
+      }
+    }
+  ],
+  "ranked_designs": [
+    {
+      "name": "HiPLO-Insulated-Premium",
+      "description": "Full insulation with HS4 + WPRE + optimized promoters",
+      "layout": "[HS4]\u2192[CAG]\u2192Rep78\u2192[HS4]\u2192[CMV]\u2192VP1\u2192[WPRE]\u2192[HS4]\u2192[bGH_polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "HS4_insulator",
+        "bGH_polyA",
+        "HS4_insulator"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA",
+        "HS4_insulator"
+      ],
+      "stoichiometry": "1:2 Rep:Cap (insulated)",
+      "total_plasmid_size_bp": 8499,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 76.764,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-TriCassette",
+      "description": "Three independent cassettes: Rep78, VP1, VP3 with individual optimization",
+      "layout": "[CAG]\u2192Rep78\u2192[polyA] || [CMV]\u2192VP1\u2192[WPRE]\u2192[polyA] || [SFFV]\u2192VP3\u2192[polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "bGH_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "extra_cassette": {
+        "promoter": "SFFV",
+        "gene": "VP3",
+        "elements": [
+          "SV40_polyA"
+        ]
+      },
+      "stoichiometry": "1:3:10 Rep:VP1:VP3",
+      "total_plasmid_size_bp": 8828.6,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 19.829,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Cap-Boost",
+      "description": "Strong Cap promoter + weaker Rep for natural 1:5 Rep:Cap ratio",
+      "layout": "[PGK]\u2192Rep78\u2192[polyA] || [CAG]\u2192VP1\u2192[WPRE]\u2192[polyA]",
+      "rep_promoter": "PGK",
+      "cap_promoter": "CAG_promoter",
+      "rep_elements": [
+        "SV40_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "1:5 Rep:Cap (promoter-tuned)",
+      "total_plasmid_size_bp": 7689,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 15.592,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Inducible-Control",
+      "description": "Tet-On controlled Rep for temporally regulated production",
+      "layout": "[Tet-On]\u2192Rep78\u2192[polyA] || [CMV]\u2192VP1\u2192[WPRE]\u2192[polyA]",
+      "rep_promoter": "Tet-On_3G",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "SV40_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "Inducible (1:3 Rep:Cap at Dox induction)",
+      "total_plasmid_size_bp": 6509,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 14.86,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Dual-Express",
+      "description": "Separate Rep and Cap cassettes with matched strong promoters",
+      "layout": "[Promoter_A]\u2192Rep78\u2192[polyA] || [Promoter_B]\u2192VP1\u2192[WPRE]\u2192[polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": "CMV_immediate_early",
+      "rep_elements": [
+        "bGH_polyA"
+      ],
+      "cap_elements": [
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "1:1 Rep:Cap",
+      "total_plasmid_size_bp": 7749,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 11.664,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    },
+    {
+      "name": "HiPLO-Stoich-Balanced",
+      "description": "P2A-linked Rep-Cap bicistronic for 1:1 stoichiometric expression",
+      "layout": "[CAG]\u2192Rep78-P2A-VP1\u2192[WPRE]\u2192[bGH_polyA]",
+      "rep_promoter": "CAG_promoter",
+      "cap_promoter": null,
+      "rep_elements": [],
+      "cap_elements": [
+        "2A_P2A",
+        "WPRE",
+        "bGH_polyA"
+      ],
+      "stoichiometry": "1:1 Rep:Cap (P2A forced)",
+      "total_plasmid_size_bp": 6476,
+      "rep78_optimized_seq": "ATGGCCCTGAGAAGACCCCAGAACAAGCAGAGAAGCAAGCAGAGAAGCCCCAAGAAGAGAAAGGTGACCCCCAAGCCCCAGCAGAAGAAGAAGAGCAAGGCCAAGGTGAAGCAGAGAGTGCTGGTGAGCGTGACCGGCGAGGATTGCGGCATCCCCGTGCCCTATCACGTGAACCAGGGCATGCTGGCCGTGGATCTGCTGGAGGAGGTGGTGAGCCTGTTCTGCACCGCCAGATGCCTGGGCGCCGGCGCCACCGTGAAGTTCAACATCCAGAAGGGCAGACTGGTGAGCAGACACCCCGTGCTGAACATCGGCCAGATCCTGACCCTGCCCCAGGAGCTGAAGGTGATGACCTATCTGCAGGAGGTGACCGCCGATCCCGCCCTGCTGAGACTGTATTGCAAGGCCGATGGCGAGATCACCCAGAGAGGCTTCCTGATCGATCAGGGCTATAGACTGGTGGAGGTGTTCAAAGATCCCCAGAGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGCAGAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGAGCCATCACCAAGGGCAAGCAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAAGGCCAAGGTGAAGCAGAAGGTGAAGGTGAAGGGCAGA",
+      "vp1_optimized_seq": "ATGGGCGCCGCCCCCGCCAAGAGAAGACTGGGCCAGAGCCTGCTGAGCCAGATGGGCGTGAACCAGAACAAGCAGGTGAGCGAGCCCCAGCAGGAGAAGCAGAAGCAGAAGCAGCACAAGAGCAAGCCCCAGCAGCAGAAGAGAAAGGTGACCCCCCAGCCCCAGAAGAAGACCAAGAGAAAGAGCGTGACCACCCAGAAGAAGCAGAGACAGCCCCAGCAGAAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGCAGAAGCAGCCCAAGCAGAAGCAGAAGAAGCAGAAGCAGCAGAAGGTGGGCAGCACCCAGAAGGCCGAGATCCAG",
+      "predicted_yield_score": 8.512,
+      "cai_rep78": 0.9989,
+      "cai_vp1": 1.0
+    }
+  ]
+}
